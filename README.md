@@ -51,3 +51,5 @@ Derives the same key from the password and salt.
 Decrypts the ciphertext and removes padding.
 
 Saves the output as a .dec file.
+
+![Image](https://github.com/user-attachments/assets/287a1fc7-9be7-48f4-a365-d673a09fd0f8)
